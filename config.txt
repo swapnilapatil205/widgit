@@ -1,3 +1,4 @@
 This changes need to be done on your local copy as they are present only on remote repo.
 added new values.
 added new configuration for local commit.
+I have added this value to the remote.
